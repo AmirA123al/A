@@ -1,0 +1,1 @@
+Write me a MATLAB program that solves the second order differential equation d^2u/dx^2+dy/dx=x with the boundary conditions u(0)=1 and u(3)=4 for n=1 by Galerkin method  solve it and give me the final (approximate) answer and analytical (exact) answer along with the percentage of error
